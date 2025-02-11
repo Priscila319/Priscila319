@@ -2,7 +2,7 @@
 
 <p align="left">
   
-- 👦 Eu sou <strong>Priscila</strong> de <strong>Pernambuco</strong>
+- 👦 Eu sou <strong>Priscila Barbosa</strong> de <strong>Pernambuco</strong>
 
 - 🔭 <strong>Senac/ADS</strong>
 
